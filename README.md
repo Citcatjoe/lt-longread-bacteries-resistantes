@@ -1,1 +1,1 @@
-# lt-longread-bacteries-resistantes
+# Long read bactéries résistantes
